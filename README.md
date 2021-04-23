@@ -1,20 +1,23 @@
 # nuxt-ts
+Repositório criado para desenvolvimento do projeto apresentado no curso 'Escalando Vue com Nuxt', ministrado pela plataforma Cataline.
 
-## Build Setup
+![ScreenShot](./assets/images/nuxt.png)
+
+## Configurações para compilação
 
 ```bash
-# install dependencies
+# instalar dependências
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# servidor com recarga rápida em localhost:3000
 $ yarn dev
 
-# build for production and launch server
+# compilação para produção e iniciar servidor
 $ yarn build
 $ yarn start
 
-# generate static project
+# gerar projeto estático
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Para obter uma explicação detalhada sobre como as coisas funcionam, acesse [Documentação Nuxt.js](https://nuxtjs.org).
